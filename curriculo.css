@@ -1,0 +1,138 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Century Gothic";
+    background-color: #ffffff;
+}
+.cabecalho{
+    background-color: #fddff0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    gap: 900px;
+    padding: 10px;
+}
+.menus{
+    display: flex;
+    gap: 150px;
+    list-style: none;
+    align-items: center;
+}
+
+.itensbanner h1{
+    text-align: center;
+    font-size: 30px
+}
+
+.containerbemvindo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 70px 100px;
+    text-align: justify;
+    gap: 100px;
+    background-color: #f3accf;
+}
+
+.contatos{
+    list-style: none;
+    font-size: 30px
+}
+
+.contatos li {
+    margin: 10px;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 70px 100px;
+    text-align: justify;
+    gap: 100px;
+}
+
+.texto22{
+    background-color: #fddff0;
+    border:10px;
+    padding: 5px 10px;
+    border-style: solid;
+    border-color: #f8c8e7;
+    width: 50%;
+    height: 200px;
+}
+
+.texto11{
+    background-color: #fddff0;
+    border:10px;
+    padding: 5px 10px;
+    border-style: solid;
+    border-color: #f8c8e7;
+    width: 50%;
+    height: 200px;
+}
+
+.texto2{
+    padding: 5px 10px;
+    width: 50%;
+    height: 300px;
+}
+
+.texto1{
+    padding: 5px 170px;
+    width: 70%;
+    height: 300px;
+}
+
+.texto222{
+    background-color: #fddff0;
+    border:10px;
+    padding: 5px 10px;
+    border-style: solid;
+    border-color: #f8c8e7;
+    width: 50%;
+    height: 270px;
+}
+
+.texto111{
+    background-color: #fddff0;
+    border:10px;
+    padding: 5px 10px;
+    border-style: solid;
+    border-color: #f8c8e7;
+    width: 50%;
+    height: 270px;
+}
+
+.containerr{
+    background-color: #f3accf;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 30px 100px;
+    text-align: justify;
+    gap: 100px;
+}
+
+.containerr img{
+    height: 100px;
+}
+
+.text6 img{
+    width: 180px;
+    height: 170px;
+}
+
+.text4 img{
+    width: 100px;
+    height: 100px;
+}
+
+.text1 img{
+    width: 120px;
+    height: 110px;
+}
