@@ -1,0 +1,161 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Century Gothic";
+    background-color: #590505;
+    text-align: center;
+}
+.cabecalho{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    gap: 900px;
+    padding: 10px;
+}
+
+
+.contatos{
+    list-style: none;
+    font-size: 30px
+}
+
+.contatos li {
+    margin: 10px;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 70px 100px;
+    text-align: justify;
+    gap: 100px;
+}
+
+.texto22{
+    background-color: #fddff0;
+    border:10px;
+    padding: 5px 10px;
+    border-style: solid;
+    border-color: #f8c8e7;
+    width: 50%;
+    height: 200px;
+}
+
+.texto11{
+    text-align: center;
+    background-color: #590505;
+    border:15px;
+    padding: 40px 0px;
+    border-style: solid;
+    border-color: #193e70;
+    width: 50%;
+    height: 300px;
+}
+
+
+.texto2{
+    padding: 5px 10px;
+    width: 50%;
+    height: 300px;
+}
+
+.texto1{
+    padding: 5px 170px;
+    width: 70%;
+    height: 300px;
+}
+
+.texto222{
+    background-color: #fddff0;
+    border:10px;
+    padding: 5px 10px;
+    border-style: solid;
+    border-color: #f8c8e7;
+    width: 50%;
+    height: 270px;
+}
+
+.texto111{
+    background-color: #fddff0;
+    border:10px;
+    padding: 5px 10px;
+    border-style: solid;
+    border-color: #f8c8e7;
+    width: 50%;
+    height: 270px;
+}
+
+.containerr{
+    background-color: #f3accf;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 30px 100px;
+    text-align: justify;
+    gap: 100px;
+}
+
+.containerr img{
+    height: 100px;
+}
+
+.menus img{
+    width: 2000px;
+}
+.banner{
+    display: flex;
+    justify-content: center;
+}
+.itensbanner {
+    background-color: #830d0d;
+    text-align: center;
+    font-size: 25px;
+    width: 100%;
+}
+
+.comentarios{
+    background-color: #830d0d;
+    text-align: center;
+    font-size: 21px;
+    width: 100%;
+}
+
+
+.comentarios2{
+    background-color: #193860;
+    text-align: center;
+    font-size: 18px;
+    width: 100%;
+    color: white;
+}
+
+
+.comentarios3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 70px 100px;
+    text-align: justify;
+    gap: 100px;
+    background-color: #ffffff;
+    width: 100%;
+    color: #590505;
+    font-size: 50px;
+}
+
+.itensbanneer{
+    background-color: white;
+    width: 100%;
+}
+
+.itensbanneers{
+    background-color: #000000;
+    width: 100%;
+    color: white;
+}
+
